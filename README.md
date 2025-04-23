@@ -19,7 +19,7 @@ Before running this project, ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/maryam884/hospital-system-java-.git
 ## Step 2: Compile the Java Files
 Navigate to the project directory and compile the Java files:
 cd repository-name
